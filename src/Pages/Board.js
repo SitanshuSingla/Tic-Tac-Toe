@@ -11,7 +11,7 @@ export default function Board(props) {
       {pwin && <div className="w">Player {pwin} Won</div>}
       <div className="row">
         {props.item.map((value, ind) => (
-          <div className="col-4">
+          <div className="col-3">
             {" "}
             <Box
               value={value}
