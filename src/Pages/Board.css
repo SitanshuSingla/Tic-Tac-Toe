@@ -1,0 +1,19 @@
+.w {
+  margin-top: 100px;
+  font-weight: bold;
+  font-size: 2rem;
+  color: blue;
+}
+.x1 {
+  font-size: 2rem;
+  color: red;
+}
+.y1 {
+  font-size: 2rem;
+  color: green;
+}
+.row {
+  padding-top: 100px;
+  padding-left: 35%;
+  padding-right: 35%;
+}
